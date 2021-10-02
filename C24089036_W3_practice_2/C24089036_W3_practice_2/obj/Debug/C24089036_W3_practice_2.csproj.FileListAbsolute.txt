@@ -1,0 +1,7 @@
+C:\Users\charl\OneDrive\桌面\Window Programming\C24089036_W3_practice_2\C24089036_W3_practice_2\bin\Debug\C24089036_W3_practice_2.exe.config
+C:\Users\charl\OneDrive\桌面\Window Programming\C24089036_W3_practice_2\C24089036_W3_practice_2\bin\Debug\C24089036_W3_practice_2.exe
+C:\Users\charl\OneDrive\桌面\Window Programming\C24089036_W3_practice_2\C24089036_W3_practice_2\bin\Debug\C24089036_W3_practice_2.pdb
+C:\Users\charl\OneDrive\桌面\Window Programming\C24089036_W3_practice_2\C24089036_W3_practice_2\obj\Debug\C24089036_W3_practice_2.csprojAssemblyReference.cache
+C:\Users\charl\OneDrive\桌面\Window Programming\C24089036_W3_practice_2\C24089036_W3_practice_2\obj\Debug\C24089036_W3_practice_2.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\桌面\Window Programming\C24089036_W3_practice_2\C24089036_W3_practice_2\obj\Debug\C24089036_W3_practice_2.exe
+C:\Users\charl\OneDrive\桌面\Window Programming\C24089036_W3_practice_2\C24089036_W3_practice_2\obj\Debug\C24089036_W3_practice_2.pdb
