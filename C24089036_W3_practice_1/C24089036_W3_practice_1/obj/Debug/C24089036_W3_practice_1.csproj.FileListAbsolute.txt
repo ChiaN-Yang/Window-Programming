@@ -1,0 +1,7 @@
+C:\Users\charl\source\repos\C24089036_W3_practice_1\C24089036_W3_practice_1\bin\Debug\C24089036_W3_practice_1.exe.config
+C:\Users\charl\source\repos\C24089036_W3_practice_1\C24089036_W3_practice_1\bin\Debug\C24089036_W3_practice_1.exe
+C:\Users\charl\source\repos\C24089036_W3_practice_1\C24089036_W3_practice_1\bin\Debug\C24089036_W3_practice_1.pdb
+C:\Users\charl\source\repos\C24089036_W3_practice_1\C24089036_W3_practice_1\obj\Debug\C24089036_W3_practice_1.csprojAssemblyReference.cache
+C:\Users\charl\source\repos\C24089036_W3_practice_1\C24089036_W3_practice_1\obj\Debug\C24089036_W3_practice_1.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\C24089036_W3_practice_1\C24089036_W3_practice_1\obj\Debug\C24089036_W3_practice_1.exe
+C:\Users\charl\source\repos\C24089036_W3_practice_1\C24089036_W3_practice_1\obj\Debug\C24089036_W3_practice_1.pdb
